@@ -7,9 +7,7 @@
  </br>Freelancer at <a href="https://www.upwork.com/freelancers/~014464092b32fc9b0d"> Upwork </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: TanvirMahin24](https://img.shields.io/twitter/follow/TanvirMahin24?style=social)](https://twitter.com/TanvirMahin24)
-[![Linkedin: tanvirmahin24](https://img.shields.io/badge/-naimur-rahman-0a2451228-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naimur-rahman-0a2451228/)](https://www.linkedin.com/in/tanvirmahin24)
-[![GitHub: TanvirMahin24](https://img.shields.io/github/followers/TanvirMahin24?label=follow&style=social)](https://github.com/TanvirMahin24)
+[![GitHub: naimur-rahman123](https://img.shields.io/github/followers/naimur-rahman123?label=follow&style=social)](https://github.com/naimur-rahman123)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
