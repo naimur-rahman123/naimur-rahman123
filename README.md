@@ -10,7 +10,7 @@
  </br>
  - 🌱 Freelancer at <a href="https://www.upwork.com/freelancers/~014464092b32fc9b0d"> Upwork </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  </br>
- - 😻 In love with JavaScript & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ - 😻 In love with JavaScript & React <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="30">
  </br>
  - ⚡ Fun fact **I'm good with people** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  </br>
