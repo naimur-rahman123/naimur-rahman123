@@ -9,7 +9,7 @@
 </em></p>
 
 [![Twitter: TanvirMahin24](https://img.shields.io/twitter/follow/TanvirMahin24?style=social)](https://twitter.com/TanvirMahin24)
-[![Linkedin: tanvirmahin24](https://img.shields.io/badge/-tanvirmahin24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvirmahin24/)](https://www.linkedin.com/in/tanvirmahin24)
+[![Linkedin: tanvirmahin24](https://img.shields.io/badge/-naimur-rahman-0a2451228-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naimur-rahman-0a2451228/)](https://www.linkedin.com/in/tanvirmahin24)
 [![GitHub: TanvirMahin24](https://img.shields.io/github/followers/TanvirMahin24?label=follow&style=social)](https://github.com/TanvirMahin24)
 
 
