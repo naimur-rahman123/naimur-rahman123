@@ -6,7 +6,7 @@ Dedicated to optimisation, experienced DevOps Engineer understands the melding o
 
 🌱 I'm currently working as a DevOps Engineer:
 
-[![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimur-rahman123&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimur-rahman123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimur-rahman123)](https://github.com/anuraghazra/github-readme-stats)
 
