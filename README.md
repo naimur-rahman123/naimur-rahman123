@@ -15,7 +15,7 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...
-<p align="left">I didn't study Computer Science. In fact, I studied Electrical & Electronic Engineering at my university, RUET but I love computers. I love everything about them. During first semester of my University after taking first programming course, this passion of mine even grew more. So I got myself committed into programming. Mostly I am self taught but I got help from my university teachers, friends and other Senior Developers. I spend eight to ten hours a day in front of a computer screen as I am coding, debugging, or discussing coding practices and methods with other programmers. I started competetive programming just for fun and later won more 3 University Level Programming Contests. I have a decent knowledge in Data Structures and Algorithms. I have experience working with other developers on real client projects. When I am not programming, I am teaching about computers at the university helping others to learn programming and making others become interested in technologies or I am joing Tech Festivals. I do enjoy my work.😊</p>
+<p align="left">I didn't study Computer Science. In fact, I studied Electrical & Electronic Engineering at my university, RUET. During first semester of my University after taking first programming course, programming became a passion of mine and I got hooked. I spend eight to ten hours a day in front of a computer screen as I am coding, debugging, or discussing coding practices and methods with other programmers. I started competetive programming just for fun and later won more 3 University Level Programming Contests. I have a decent knowledge in Data Structures and Algorithms. I have experience working with other developers on real client projects. When I am not programming, I am teaching about computers at the university helping others to learn programming and making others become interested in technologies or I am joing Tech Festivals. I do enjoy my work.😊</p>
 
 </br>
 
@@ -37,6 +37,7 @@ const naimurRahman = {
    }
 }
 ```
+</br>
 <div align="center">
  
 [![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimur-rahman123&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
