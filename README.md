@@ -12,7 +12,7 @@
  </br>
  - 😻 In love with JavaScript & React <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="30">
  </br>
- - ⚡ Fun fact **I'm good with people** <img src="https://media.giphy.com/media/krIiJKsLX4PLy/giphy.gif" width="30">
+ - ⚡ Fun fact **I'm good with people** <img src="https://media.giphy.com/media/5pUAw9XjALuWepcOgV/giphy.gif" width="30">
  </br>
  - 👯 Looking to collaborate with other Web Developers <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  </br>
