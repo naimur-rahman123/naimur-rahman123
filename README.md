@@ -8,8 +8,6 @@
  </br>Freelancer at <a href="https://www.upwork.com/freelancers/~014464092b32fc9b0d"> Upwork </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>In love with JavaScript & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Fun fact **I'm good with people** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> Looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Reach me: <a href="https://www.linkedin.com/in/naimur-rahman-0a2451228/"> LinkedIn, </a> <a href="https://www.facebook.com/naimurrahman007">Facebook</a> <img src="https://media.giphy.com/media/oX8pSaFrQw3sJ0K5bk/giphy.gif" width="30">
 </em></p>
 
-[![GitHub: naimur-rahman123](https://img.shields.io/github/followers/naimur-rahman123?label=follow&style=social)](https://github.com/naimur-rahman123)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
