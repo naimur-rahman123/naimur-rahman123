@@ -28,7 +28,5 @@ const naimurRahman = {
    }
 }
 ```
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimur-rahman123&theme=radical)](https://git.io/streak-stats)
-
 [![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimur-rahman123&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimur-rahman123&theme=radical)](https://git.io/streak-stats)
