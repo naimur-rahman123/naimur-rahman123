@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="230">
 <p><em>Electrical & Electronic Engineering student at <a href="https://www.ruet.ac.bd/">RUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
- </br>Freelancer at <a href="https://www.upwork.com/freelancers/~014464092b32fc9b0d"> Upwork </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>In love with JavaScript & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </br> Looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ </br>Freelancer at <a href="https://www.upwork.com/freelancers/~014464092b32fc9b0d"> Upwork </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>In love with JavaScript & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </br> Looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Reach me: <a href="https://www.linkedin.com/in/naimur-rahman-0a2451228/"> Linked In </a>
 </em></p>
 
 [![GitHub: naimur-rahman123](https://img.shields.io/github/followers/naimur-rahman123?label=follow&style=social)](https://github.com/naimur-rahman123)
