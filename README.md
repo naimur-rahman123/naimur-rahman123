@@ -10,7 +10,7 @@
 - 😻 In love with JavaScript & React <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="40">
 - ⚡ Fun fact **I'm good with people** <img src="https://media.giphy.com/media/5pUAw9XjALuWepcOgV/giphy.gif" width="40">
 - 👯 Looking to collaborate with other Web Developers <img src="https://media.giphy.com/media/S65QkXAcdXvF1o9gHk/giphy.gif" width="40">
-- 🤝 Contact me: <a href="https://www.linkedin.com/in/naimur-rahman-0a2451228/"> LinkedIn, </a> <a href="https://www.facebook.com/naimurrahman007">Facebook</a>, <a href="https://www.instagram.com/naimurrahmankhan/">Instagram</a> <img src="https://media.giphy.com/media/oX8pSaFrQw3sJ0K5bk/giphy.gif" width="40">
+- 🤝 Connect with me: <a href="https://www.linkedin.com/in/naimur-rahman-0a2451228/"> LinkedIn, </a> <a href="https://www.facebook.com/naimurrahman007">Facebook</a>, <a href="https://www.instagram.com/naimurrahmankhan/">Instagram</a> <img src="https://media.giphy.com/media/oX8pSaFrQw3sJ0K5bk/giphy.gif" width="40">
 
 
 
