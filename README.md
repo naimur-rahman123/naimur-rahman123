@@ -20,8 +20,8 @@ const naimurRahman = {
   pronouns: "he" | "his",
   code: [Javascript, Nodejs, Python, TypeScript],
   web_technologies: [React, Redux, Node.js, Express.js, Mern stack, Next.js, Git, Github, SSH],
-  skills: [Passionate About Technologies, Problem Solving, Web Development, Frontend Development, API Development, Unit Testing, MERN Stack, Performance & Security],
-  extra_softwere_skills: [Data Structure & Algorithm, ],
+  skills: [Web Development, Frontend Development, React Development, Single Page Application, REST API, OOP, Unit Testing, MERN Stack, Performance & Security],
+  extra_softwere_skills: [Data Structure & Algorithm, Problem Solving, Passionate About Technologies],
   communities: 
   {
      problem_solver: "RUET Analytical Programming Lab",
@@ -37,4 +37,5 @@ const naimurRahman = {
 [![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimur-rahman123&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimur-rahman123&theme=radical)](https://git.io/streak-stats)
+
 </div>
