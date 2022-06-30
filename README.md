@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="230">
 <p><em>Electrical & Electronic Engineering student at <a href="https://www.ruet.ac.bd/">RUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
- </br>Web Developer at <a href="https://qubitechbd.com/"> Qubitech</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Ex Lead Web Developer at <a href="https://pioneeralpha.com/">Pioneer Alpha</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ </br>Freelancer at <a href="https://upwork.com/"> Upwork </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Ex Lead Web Developer at <a href="https://pioneeralpha.com/">Pioneer Alpha</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </br>Web Developer <a href="https://code-studio-4.com/">Code Studio</a><img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="30"> 
 </em></p>
 
