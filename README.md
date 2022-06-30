@@ -33,7 +33,7 @@ const naimurRahman = {
   {
      problem_solver: "RUET Analytical Programming Lab",
      web_developer: "Upwork",
-     certificates: ["FreeCodeCamp JavaScript Algorithms and Data Structures", "FreeCodeCamp Coding Interview Prep", "HackerRank JavaScript Advanced"]
+     certificates: ["FreeCodeCamp JavaScript Algorithms and Data Structures", "FreeCodeCamp Coding Interview Prep", "HackerRank JavaScript Advanced"],
      member_of: "IEEE RUET",
      team_member: "Hult Prize RUET Project",
    }
