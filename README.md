@@ -2,7 +2,8 @@
 # Hi, I'm Naimur 👋🏻 👨🏻‍💻 
 
 
-<img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="230">
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <p><em>Electrical & Electronic Engineering student at <a href="https://www.ruet.ac.bd/">RUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  </br>Freelancer at <a href="https://www.upwork.com/freelancers/~014464092b32fc9b0d"> Upwork </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>In love with JavaScript & React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </br> Looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Reach me: <a href="https://www.linkedin.com/in/naimur-rahman-0a2451228/"> LinkedIn, </a> <a href="https://www.facebook.com/naimurrahman007">Facebook</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
