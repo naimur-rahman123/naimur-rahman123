@@ -1,6 +1,7 @@
-<div align=center>
+
 # Hi, I'm Naimur Rahman 👋🏻 👨🏻‍💻 
 
+<div align=center>
 ![](https://komarev.com/ghpvc/?username=NayeemH&color=blueviolet&style=flat-square)
 
 Dedicated to optimisation, experienced DevOps Engineer understands the melding of operations and development to quickly deliver code to customers. Has experience with the cloud and monitoring processes as well as DevOps development in Windows,Mac and Linux systems. Brings Bachelor’s Degree in Computer Science and Engineering and experience working as a DevOps Engineer since shortly after the concept was introduced.
