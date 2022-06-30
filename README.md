@@ -22,16 +22,17 @@
 ```javascript
 const naimurRahman = {
   pronouns: "he" | "his",
+  study: "Electrical & Electronic Engineering",
   code: [Javascript, Nodejs, Python, TypeScript],
   web_technologies: [HTML, CSS, Sass, Bootstrap, Tailwind CSS, React, Firebase, Redux, Node.js, Express.js, Mern stack, Next.js, Git, Github, SSH],
   skills: [Web Development, Frontend Development, React Development, Single Page Application, REST API, OOP, Unit Testing, MERN Stack, Performance & Security],
   extra_softwere_skills: [Data Structure & Algorithm, Problem Solving, Passionate About Technologies],
   communities: 
   {
-     problem_solver: "RUET Analytical Programming Lab",
+     problem_solver: ["Codewars", "HackerRank", "FreeCodeCamp"],
      web_developer: "Upwork",
      certificates: ["Complete Web Development Course with Jhankar Mahbub", "FreeCodeCamp JavaScript Algorithms and Data Structures", "FreeCodeCamp Coding Interview Prep", "HackerRank JavaScript Advanced"],
-     member_of: "IEEE RUET",
+     member_of: ["IEEE RUET", "RUET Analytical Programming Lab", "Programming Hero Community"],
      team_member: "Hult Prize RUET Project",
    }
 }
