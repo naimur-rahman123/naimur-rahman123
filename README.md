@@ -28,6 +28,7 @@ const naimurRahman = {
    }
 }
 ```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimur-rahman123)](https://git.io/streak-stats)
 
 [![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimur-rahman123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
