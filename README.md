@@ -12,25 +12,22 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
-const tanvirMahin = {
+const naimurRahman = {
   pronouns: "he" | "his",
-  code: [Javascript,Nodejs, HTML, CSS, PHP, Python, Dart],
-  web_technologies: [React, Node js, Aws, Flutter, Laravel, Django, Mern stack, Gatsby, Next.js, Git, Github],
-  skills: [Web Development, Flutter App Development, Graphics Design, Audio Mastering, Video Editing],
-  extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator", "Adobe After Effect", "Adobe Audition"],
+  code: [Javascript, Nodejs, Python, TypeScript],
+  web_technologies: [React, Redux, Node.js, Express.js, Mern stack, Next.js, Git, Github, SSH],
+  skills: [Passionate About Technologies, Problem Solving, Web Development, Frontend Development, API Development, Unit Testing, MERN Stack, Performance & Security],
+  extra_softwere_skills: [Data Structure & Algorithm, ],
   communities: 
   {
-     web_developer: "Qubitech Solutions",
-     ex_lead_developer: "Pioneer Alpha",
-     web_developer: "Code Studio",
-     dev: "RUET Career Forum",
-     graphics_designer: "Hult Prize RUET",
-     co_founder: "Jumbak",
-     founder: "Bytech"
+     problem_solver: "RUET Analytical Programming Lab",
+     web_developer: "Upwork",
+     certificates: ["FreeCodeCamp JavaScript Algorithms and Data Structures", "FreeCodeCamp Coding Interview Prep", "HackerRank JavaScript Advanced"]
+     member_of: "IEEE RUET",
+     team_member: "Hult Prize RUET Project",
    }
 }
 ```
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirMahin24&theme=radical" alt="TanvirMahin24" /></p>
 
 [![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimur-rahman123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
